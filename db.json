@@ -62,6 +62,21 @@
       "quote": "Jason is TP",
       "author": "Tim Duncan",
       "id": 13
+    },
+    {
+      "quote": "Chicken is Dank",
+      "author": "Rohit",
+      "id": 14
+    },
+    {
+      "quote": "rohit",
+      "author": "chicken",
+      "id": 15
+    },
+    {
+      "quote": "runescape",
+      "author": "jscript",
+      "id": 16
     }
   ],
   "likes": [
@@ -289,6 +304,14 @@
     {
       "quoteId": "1",
       "id": 56
+    },
+    {
+      "quoteId": "14",
+      "id": 57
+    },
+    {
+      "quoteId": "14",
+      "id": 58
     }
   ]
 }
